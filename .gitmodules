@@ -1,0 +1,6 @@
+[submodule "exams"]
+	path = exams
+	url = https://github.com/ych-yang/exams.git
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = git@github.com:ych-yang/learning-cxx.git
